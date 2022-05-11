@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pozoal
-- 👀 I’m interested in frontend and backend devleopment
-- 🌱 I’m currently learning Svelte and some other resources relating to frontend development
+- 👀 I love both frontend and backend develeopment
+- 🌱 I love to watch football during my leisure.
 - 💞️ I’m looking to collaborate on any projects regarding any frontend framework
 - 📫 How to reach me...You can reach me by sending a message on https://t.me/Lompardo. Thank you.
 
